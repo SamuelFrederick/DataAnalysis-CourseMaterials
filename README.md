@@ -1,1 +1,1 @@
-# Discussion Section Materials for Research Design: Data Analysis
+# Teaching Materials for Research Design: Data Analysis
